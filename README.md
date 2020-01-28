@@ -10,7 +10,7 @@ apt update
 
 apt install git -y
 
-git clone https://github.com/Rajkumrdusad/IP-Tracer.git
+git clone https://github.com/prahlad01/IP-Tracer
 
 cd IP-Tracer
 
